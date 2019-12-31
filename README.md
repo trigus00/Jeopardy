@@ -9,3 +9,6 @@ There are many possible ways to correctly fulfill all of these requirements, and
 
 ### Project Goals
 You will work to write several functions that investigate a dataset of Jeopardy! questions and answers. Filter the dataset for topics that you’re interested in, compute the average difficulty of those questions, and train to become the next Jeopardy champion!
+
+### Programs Used 
+Jupyter Notebook
